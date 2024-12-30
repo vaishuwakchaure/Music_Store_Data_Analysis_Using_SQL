@@ -5,6 +5,12 @@ This project utilizes SQL queries to extract valuable business insights from a m
 
 This project involves analyzing a music store database using SQL. The goal is to generate business insights such as top customers, most popular genres, highest sales per artist, and more. The queries are divided into three difficulty levels: easy, moderate, and advanced.
 
+## Database and Tools
+
+    * Postgre SQL
+    * PgAdmin4
+
+
 ## Queries and Results
 
 ### Question Set 1 - Easy
